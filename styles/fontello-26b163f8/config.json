@@ -1,0 +1,69 @@
+{
+  "name": "",
+  "glyphs": [
+    {
+      "search": [
+        "eye",
+        "subscribe"
+      ],
+      "code": 59146,
+      "from": 59146,
+      "uid": "c5fd349cbd3d23e4ade333789c29c729",
+      "css": "eye",
+      "orig_css": "eye",
+      "orig_code": 59146,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "magic"
+      ],
+      "code": 61648,
+      "uid": "ff70f7b3228702e0d590e60ed3b90bea",
+      "css": "magic",
+      "orig_css": "magic",
+      "orig_code": 61648,
+      "src": "fontawesome",
+      "from": 61648
+    },
+    {
+      "search": [
+        "attach",
+        "clip"
+      ],
+      "code": 128206,
+      "from": 128206,
+      "uid": "0d6ab6194c0eddda2b8c9cedf2ab248e",
+      "css": "attach",
+      "orig_css": "attach",
+      "orig_code": 128206,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "download"
+      ],
+      "code": 128229,
+      "from": 128229,
+      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
+      "css": "download",
+      "orig_css": "download",
+      "orig_code": 128229,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "wrench",
+        "tools",
+        "settings"
+      ],
+      "code": 128295,
+      "from": 128295,
+      "uid": "5bb103cd29de77e0e06a52638527b575",
+      "css": "wrench",
+      "orig_css": "wrench",
+      "orig_code": 128295,
+      "src": "fontawesome"
+    }
+  ]
+}
